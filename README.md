@@ -1,0 +1,1 @@
+This storage contract was created in Remix to track prescriptions issued to patients.
